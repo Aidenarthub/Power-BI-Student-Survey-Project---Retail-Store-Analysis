@@ -41,17 +41,31 @@ Master Dashboard & Refresh: Publish the report on the Power BI cloud service and
 Power BI Q&A:
 
 Show average age of students.
+
 Create a Donut chart for the total amount of purchases by store location.
+
 Power BI Features Used
+
 Conditional Formatting in tabular visualization
+
 Matrix Visualization with custom formatting
+
 Funnel Chart, Pie Chart, and Scatter Plot for visual data representation
+
 SandDance Plot for 3D interactive visualizations
+
 Row-Level Security (RLS) to manage user access to specific data
+
 Scheduled Data Refresh in Power BI cloud service
+
 Q&A Feature to query data using natural language processing
+
 Tools & Technologies
+
 Power BI Desktop
+
 Power BI Cloud Service
+
 Power BI Q&A
+
 Row-Level Security (RLS)
