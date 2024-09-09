@@ -1,6 +1,3 @@
-Here’s a polished version of your README file for your Power BI Student Survey Project:
-
----
 
 # Power BI Student Survey Project - Retail Store Analysis
 
@@ -61,7 +58,3 @@ The goal of this project is to create a Power BI report that provides insights i
 - **Power BI Cloud Service**
 - **Power BI Q&A**
 - **Row-Level Security (RLS)**
-
----
-
-This version improves clarity, formatting, and flow, making it more professional for GitHub. Let me know if you need further adjustments!
